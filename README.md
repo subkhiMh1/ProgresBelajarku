@@ -1,5 +1,7 @@
 # ProgresBelajarku
 repository ini merupakan belajarku di dicoding
+
 11 agustus 2023 
- *gitHub*
-- membuat repository mandiri (progres belajar 38%)
+ membuat repository mandiri (progres belajar 38%)
+  * belajar membuat repository
+  * belajar menambah kegiatan pada redme.md
